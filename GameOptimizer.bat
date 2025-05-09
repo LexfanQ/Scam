@@ -1,6 +1,6 @@
 @echo off
 chcp 437 >nul
-title Ultimate Game Optimizer v0.5 by Lexfan
+title Ultimate Game Optimizer v0.7 by Lexfan
 mode con cols=100 lines=35
 setlocal EnableDelayedExpansion
 
